@@ -4,9 +4,9 @@ N:Choudhary;Sumit;;Dr.;
 FN:Sumit Choudhary
 TITLE:Research Scientist
 ORG:Adobe Systems Inc.;Adobe Research
-ADR:;Adobe Tower, Block A,;Prestige Tech Platina, Kadubeesanahalli,;Bengaluru;Karnataka;560087;India
+ADR;WORK:;Adobe Tower, Block A,;Prestige Tech Platina, Kadubeesanahalli,;Bengaluru;Karnataka;560087;India
 TEL;WORK:+91 (80) 6765-3456
 URL:http://sunavc.github.io
-EMAIL;TYPE=internet:schoudha@adobe.com
+EMAIL;WORK:schoudha@adobe.com
 TZ:+05:30
 END:VCARD
