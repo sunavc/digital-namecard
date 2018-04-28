@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Choudhary;Sunav;;;
+FN:Sunav Choudhary
+ORG:Adobe Research;
+TITLE:Research Scientist
+EMAIL;type=INTERNET;type=WORK;type=pref:schoudha@adobe.com
+TEL;type=WORK;type=VOICE:+91 80 67658435
+item1.ADR;type=WORK;type=pref:;;Adobe Tower\, Block A\,\nPrestige Tech Platina\, Kadubeesanahalli\,;;;;Bengaluru\, Karnataka 560087\, India
+item1.X-ABADR:in
+item2.URL;type=pref:sunavc.github.io
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
