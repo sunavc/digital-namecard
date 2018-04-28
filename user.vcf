@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Choudhary;Sunav;;;
-FN:Sunav Choudhary
+N:Choudhary;Sumit;;;
+FN:Sumit Choudhary
 ORG:Adobe Research;
 TITLE:Research Scientist
 EMAIL;type=INTERNET;type=WORK;type=pref:schoudha@adobe.com
-TEL;type=WORK;type=VOICE:+91 80 67658435
+TEL;type=WORK;type=VOICE:+91 80 67655678
 item1.ADR;type=WORK;type=pref:;;Adobe Tower\, Block A\,\nPrestige Tech Platina\, Kadubeesanahalli\,;;;;Bengaluru\, Karnataka 560087\, India
 item1.X-ABADR:in
 item2.URL;type=pref:sunavc.github.io
